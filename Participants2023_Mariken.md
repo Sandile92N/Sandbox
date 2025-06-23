@@ -1,4 +1,4 @@
-Name: Mariken de Wit
-Country: the Netherlands
-Institution: Wageningen University & Research
+Name: Sandile 
+Country: South Africa
+Institution: AIMS South Africa
 Research interest: mosquito-borne diseases, metapopulation models, Bayesian inference
